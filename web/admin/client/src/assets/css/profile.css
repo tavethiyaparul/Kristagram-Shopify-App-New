@@ -1,0 +1,51 @@
+.MuiDataGrid-row.Mui-even {
+    background-color: rgb(243, 247, 176);
+}
+
+.MuiDataGrid-row:hover.Mui-even {
+    background-color: rgb(243, 247, 176) !important;
+}
+
+.MuiDataGrid-row.Mui-selected.Mui-even {
+    background-color: rgb(243, 247, 176) !important;
+}
+.MuiListItem-root .MuiListItem-gutters .MuiListItem-padding .css-1p823my-MuiListItem-root.dd{
+    background-color: rgb(243, 247, 176) !important;
+}
+.title-width{
+    width: 350px;
+    white-space: pre-wrap;
+    margin: 0;
+  }
+
+  .title-width-wishlist{
+    width: 350px;
+    white-space: pre-wrap;
+    margin: 0;
+  }
+
+  .title-width-spam-report{
+    width: 400px;
+    white-space: pre-wrap;
+    margin: 0;
+  }
+
+  .p_width{
+    display: flex;
+    align-items: center;
+  }
+
+  .p_width p{
+    margin: 0;
+    align-items: center;
+    max-width: 150px;
+    min-width: 150px;
+    margin-right: 5px;
+    display: flex;
+  }
+
+  .MuiInputBase-root{}
+
+  #outlined-basic{
+    width: 400px;
+  }
